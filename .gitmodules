@@ -1,0 +1,3 @@
+[submodule "splide"]
+	path = splide
+	url = https://github.com/Splidejs/splide
